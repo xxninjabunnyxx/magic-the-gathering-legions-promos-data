@@ -1,0 +1,18 @@
+---
+object: set
+id: 33d36849-7710-4766-90c6-728c3f625003
+code: plgn
+name: Legions Promos
+uri: https://api.scryfall.com/sets/33d36849-7710-4766-90c6-728c3f625003
+scryfall_uri: https://scryfall.com/sets/plgn
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aplgn&unique=prints
+released_at: '2003-02-03'
+set_type: promo
+card_count: 1
+parent_set_code: lgn
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: ons
+block: Onslaught
+icon_svg_uri: https://svgs.scryfall.io/sets/lgn.svg?1694404800
